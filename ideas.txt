@@ -1,0 +1,2 @@
+"Throw your half-built bullshit on top of a free kernel and try to pass it off as good"
+Adopt the inferior PowerPC architecture to
